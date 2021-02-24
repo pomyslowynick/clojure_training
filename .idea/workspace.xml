@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dae1b1a6-969b-4f07-9809-e2108bf78e49" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>recur</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/clojure_noob/core.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="966" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="clojure-noob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clojure-noob" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="clojure-noob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clojure-noob" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="clojure-noob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clojure-noob" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="clojure_noob" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToKeyword.includeLibraries" value="false" />
+    <property name="GoToNamespace.includeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/College/FYP_implementation/terminal/distributed-terminal" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReplState" timestamp="1614184555589">{:repl-history {:ide [], :local [{:command &quot;(hello_word_n_times 1\n                    )&quot;, :offset 42, :ns &quot;clojure-noob.core&quot;} {:command &quot;(hello_word_n_times 1\n                    \n                    )&quot;, :offset 63, :ns &quot;clojure-noob.core&quot;} {:command &quot;(hello_word_n_times 1)&quot;, :offset 22, :ns &quot;clojure-noob.core&quot;} {:command &quot;(hello_word_n_times 2)&quot;, :offset 22, :ns &quot;clojure-noob.core&quot;} {:command &quot;(defn list_replication [num lst] (loop [x num]                    ;; this works just like a 'let' binding.\n                                       (println (first lst))\n                                       (if (not= x 1)           ;; this is the base case.\n                                         (recur (- x 1)))) )&quot;, :offset 318, :ns &quot;clojure-noob.core&quot;} {:command &quot;(defn -main\n      \&quot;I don't do a whole lot ... yet.\&quot;\n      [&amp; args]\n      (println \&quot;I'm a little teapot!\&quot;))&quot;, :offset 106, :ns &quot;clojure-noob.core&quot;} {:command &quot;(-main\n  \n  )&quot;, :offset 12, :ns &quot;clojure-noob.core&quot;} {:command &quot;(-main 1 2\n       )&quot;, :offset 18, :ns &quot;clojure-noob.core&quot;} {:command &quot;(-main 1 2)&quot;, :offset 10, :ns &quot;clojure-noob.core&quot;} {:command &quot;(def user {:name \&quot;Clark\&quot;})&quot;, :offset 26, :ns &quot;clojure-noob.core&quot;} {:command &quot;(user)&quot;, :offset 5, :ns &quot;clojure-noob.core&quot;} {:command &quot;(user :name)&quot;, :offset 11, :ns &quot;clojure-noob.core&quot;} {:command &quot;(assoc user :surname \&quot;Kent\&quot;)&quot;, :offset 28, :ns &quot;clojure-noob.core&quot;} {:command &quot;(let [user-with-surname (assoc user :surname \&quot;Kent\&quot;)] (\n\n                                                       (add-user user-with-surname))&quot;, :offset 141, :ns &quot;clojure-noob.core&quot;} {:command &quot;(let [user-with-surname (assoc user :surname \&quot;Kent\&quot;)] ((add-user user-with-surname)))&quot;, :offset 85, :ns &quot;clojure-noob.core&quot;} {:command &quot;(let [user-with-surname (assoc user :surname \&quot;Kent\&quot;)] ((add -user user-with-surname)))&quot;, :offset 60, :ns &quot;clojure-noob.core&quot;} {:command &quot;user&quot;, :offset 4, :ns &quot;clojure-noob.core&quot;} {:command &quot;(= 1 \&quot;1\&quot;)&quot;, :offset 7, :ns &quot;clojure-noob.core&quot;} {:command &quot;(= 1 1)&quot;, :offset 6, :ns &quot;clojure-noob.core&quot;} {:command &quot;1 and 1&quot;, :offset 7, :ns &quot;clojure-noob.core&quot;} {:command &quot;(1 and 1)&quot;, :offset 8, :ns &quot;clojure-noob.core&quot;} {:command &quot;(and 1 1)&quot;, :offset 8, :ns &quot;clojure-noob.core&quot;} {:command &quot;(and 1 nil)&quot;, :offset 10, :ns &quot;clojure-noob.core&quot;} {:command &quot;(and 1 1 1 1 1 nil 2 2 2 2)&quot;, :offset 26, :ns &quot;clojure-noob.core&quot;} {:command &quot;(or 1 1 1 1 1 nil 2 2 2 2)&quot;, :offset 3, :ns &quot;clojure-noob.core&quot;} {:command &quot;(or nil 2 2 2 2)&quot;, :offset 3, :ns &quot;clojure-noob.core&quot;} {:command &quot;(defn error-message\n  [severity]\n  (str \&quot;OH GOD! IT'S A DISASTER! WE'RE \&quot;\n       (if (= severity :mild)\n         \&quot;MILDLY INCONVENIENCED!\&quot;\n         \&quot;DOOOOOOOMED!\&quot;)))&quot;, :offset 164, :ns &quot;clojure-noob.core&quot;} {:command &quot;(error-message :severe)&quot;, :offset 22, :ns &quot;clojure-noob.core&quot;} {:command &quot;(+ 1 1/5)&quot;, :offset 8, :ns &quot;clojure-noob.core&quot;} {:command &quot;(% 2 1/2)&quot;, :offset 4, :ns &quot;clojure-noob.core&quot;} {:command &quot;(/ 2 1/2)&quot;, :offset 2, :ns &quot;clojure-noob.core&quot;} {:command &quot;(def adder {\&quot;string-key\&quot; +}\n  )&quot;, :offset 30, :ns &quot;clojure-noob.core&quot;} {:command &quot;adder&quot;, :offset 5, :ns &quot;clojure-noob.core&quot;} {:command &quot;(adder :string-key)&quot;, :offset 18, :ns &quot;clojure-noob.core&quot;} {:command &quot;(adder \&quot;string-key\&quot;)&quot;, :offset 18, :ns &quot;clojure-noob.core&quot;} {:command &quot;((adder \&quot;string-key\&quot;) 2 5)&quot;, :offset 25, :ns &quot;clojure-noob.core&quot;} {:command &quot;(list_replication 2 [ 1 2 3])&quot;, :offset 27, :ns &quot;clojure-noob.core&quot;} {:command &quot;(list_replication 2 (1 2 3))&quot;, :offset 28, :ns &quot;clojure-noob.core&quot;} {:command &quot;(list_replication 2 [1 2 3\n                     ])&quot;, :offset 48, :ns &quot;clojure-noob.core&quot;} {:command &quot;(list_replication 4 [1 2 3])&quot;, :offset 19, :ns &quot;clojure-noob.core&quot;} {:command &quot;(doc mapcat)&quot;, :offset 11, :ns &quot;clojure-noob.core&quot;} {:command &quot;(defn multi-arity\n  ;; 3-arity arguments and body\n  ([first-arg second-arg third-arg]\n   (do-things first-arg second-arg third-arg))\n  ;; 2-arity arguments and body\n  ([first-arg second-arg]\n   (do-things first-arg second-arg))\n  ;; 1-arity arguments and body\n  ([first-arg]\n   (do-things first-arg)))\n&quot;, :offset 302, :ns &quot;clojure-noob.core&quot;} {:command &quot;(multi-arity 1 2 3)&quot;, :offset 18, :ns &quot;clojure-noob.core&quot;} {:command &quot;(multi-arity 1 2)&quot;, :offset 16, :ns &quot;clojure-noob.core&quot;} {:command &quot;(multi-arity 1)&quot;, :offset 14, :ns &quot;clojure-noob.core&quot;} {:command &quot;(multi-arity 1 2 3 4)&quot;, :offset 20, :ns &quot;clojure-noob.core&quot;} {:command &quot;(multi-arity )&quot;, :offset 13, :ns &quot;clojure-noob.core&quot;} {:command &quot;(codger \&quot;Billy\&quot;)&quot;, :offset 14, :ns &quot;clojure-noob.core&quot;} {:command &quot;(codger \&quot;Billy\&quot; \&quot;Anne-Marie\&quot; \&quot;The Incredible Bulk\&quot;)\n&quot;, :offset 52, :ns &quot;clojure-noob.core&quot;} {:command &quot;(list_replication 2 [1 2])&quot;, :offset 24, :ns &quot;clojure-noob.core&quot;} {:command &quot;(list_replication 2 (1 2))&quot;, :offset 24, :ns &quot;clojure-noob.core&quot;} {:command &quot;(list_replication 2 [1 2 3])&quot;, :offset 28, :ns &quot;clojure-noob.core&quot;} {:command &quot;(repeat 5 1)&quot;, :offset 11, :ns &quot;clojure-noob.core&quot;} {:command &quot;(map println (repeat 5 \&quot;a\&quot;))&quot;, :offset 28, :ns &quot;clojure-noob.core&quot;} {:command &quot;(map print_n_times 5 [1 2 3])&quot;, :offset 27, :ns &quot;clojure-noob.core&quot;} {:command &quot;(map print_n_times 5 2)&quot;, :offset 22, :ns &quot;clojure-noob.core&quot;} {:command &quot;(map print_n_times 5 [[1 2 3]])&quot;, :offset 28, :ns &quot;clojure-noob.core&quot;} {:command &quot;(map print_n_times 5 (1 2 3))&quot;, :offset 27, :ns &quot;clojure-noob.core&quot;} {:command &quot;(map print_n_times 2 [ 1 2])&quot;, :offset 21, :ns &quot;clojure-noob.core&quot;} {:command &quot;(map print_n_times [1 2] [ 1 2])&quot;, :offset 23, :ns &quot;clojure-noob.core&quot;} {:command &quot;(repeat 5)&quot;, :offset 10, :ns &quot;clojure-noob.core&quot;} {:command &quot;(repeat 2 5)&quot;, :offset 10, :ns &quot;clojure-noob.core&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Clojure Application.core">
+    <configuration name="REPL for clojure-noob" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="clojure-noob" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clojure-noob.core" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="clojure-noob" />
+      <setting name="path" value="" />
+      <setting name="namespace" value="clojure-noob.core" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="core" type="ClojureScriptRunConfiguration" factoryName="Clojure Script">
+      <module name="clojure-noob" />
+      <setting name="path" value="$PROJECT_DIR$/src/clojure_noob/core.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/src/clojure_noob" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Clojure REPL.REPL for clojure-noob" />
+        <item itemvalue="Clojure Application.clojure-noob.core" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dae1b1a6-969b-4f07-9809-e2108bf78e49" name="Default Changelist" comment="" />
+      <created>1610296299979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610296299979</updated>
+      <workItem from="1610296301237" duration="7048000" />
+      <workItem from="1610355683133" duration="3882000" />
+      <workItem from="1610632212055" duration="594000" />
+      <workItem from="1610711814925" duration="1828000" />
+      <workItem from="1612966044188" duration="49000" />
+      <workItem from="1613158652818" duration="65000" />
+      <workItem from="1613315363821" duration="1412000" />
+      <workItem from="1613390958914" duration="10381000" />
+      <workItem from="1613729927056" duration="160000" />
+      <workItem from="1614158718758" duration="7830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33249000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="966" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26842105" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.21555555" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39965987" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4939148" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.21555555" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Leiningen" order="10" sideWeight="0.49858356" weight="0.32995737" />
+      <window_info anchor="right" id="REPL" order="11" sideWeight="0.50141644" side_tool="true" weight="0.39789474" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26914662" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.21555555" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39965987" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.49444443" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.21555555" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Leiningen" order="10" sideWeight="0.49858356" weight="0.32995737" />
+      <window_info active="true" anchor="right" id="REPL" order="11" sideWeight="0.50141644" side_tool="true" visible="true" weight="0.4185336" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.10.1/clojure-1.10.1.jar!/clojure/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6162">
+          <caret line="6886" column="6" selection-start-line="6886" selection-start-column="6" selection-end-line="6886" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clojure_noob/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="100" column="20" lean-forward="true" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8.0_211</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>clojure-noob</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
